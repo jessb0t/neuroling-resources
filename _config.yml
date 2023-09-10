@@ -2,3 +2,6 @@ title: Neuroling Resources
 description: a playground for aspiring neurolinguists
 show_downloads: false
 theme: jekyll-theme-dinky
+
+plugins:
+  - jemoji
