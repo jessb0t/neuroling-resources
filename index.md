@@ -32,6 +32,18 @@ An MEG dataset in which participants (mostly English L1) listened to several sto
 
 [GitHub](https://github.com/kingjr/meg-masc) –– [OSF](https://osf.io/ag3kj/) –– [Paper](https://arxiv.org/abs/2208.11488)
 
+### LeBel Natural Listening
+
+Deep data for 8 participants who listen to multiple hours of natural stories from [The Moth Radio Hour](https://themoth.org/radio-hour) and the NYT Modern Love podcast. Extensive annotations for the podcast stimuli.
+
+[GitHub](https://github.com/HuthLab/deep-fMRI-dataset) –– [OpenNeuro](https://openneuro.org/datasets/ds003020/versions/1.1.1) –– [Paper](https://doi.org/10.1038/s41597-023-02437-z)
+
+### Narratives (Nastase Natural Listening)
+
+A large dataset (345 participants!) listening to naturalistic audio while in fMRI scanning. Extensive annotations are available for the stimulus stories.
+
+[GitHub](https://github.com/snastase/narratives) –– [Datalad](https://datasets.datalad.org/?dir=/labs/hasson/narratives) –– [Paper](https://doi.org/10.1038/s41597-021-01033-3)
+
 # Tutorials
 
 Many amazing scientists have created useful (and free!) tutorials to do, well, just about anything. This is a collection of tutorials that I have found particularly useful for learning skills that support my neurolinguistic research.
@@ -75,6 +87,7 @@ Sometimes, you just need a visual. Grant Anderson's videos will change how you v
 ### HarvardX Fundamentals of Neuroscience
 
 This is a series of three online courses (free if you select the Audit Track) that offers an excellent introduction to the basics of neuroscience, including the biochemistry of how neurons work, how they function as ensembles, and how they combine to the make the brain.
+
 [Website](https://www.edx.org/xseries/harvardx-fundamentals-of-neuroscience)
 
 
