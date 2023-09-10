@@ -1,5 +1,4 @@
 title: Neuroling Resources
-description: subheader test
-show_downloads: true
-google_analytics:
+description: a playground for aspiring neurolinguists
+show_downloads: false
 theme: jekyll-theme-dinky
