@@ -64,13 +64,18 @@ A thousand tutorials in one! The Neuromatch team makes their annual, three-week 
 
 Dr. Josh Starmer's hilarious, accessible videos can help you work through any statistical confusion.
 
-[YouTube](https://www.youtube.com/@statquest) | [Website](https://statquest.org/)
+[YouTube](https://www.youtube.com/@statquest) –– [Website](https://statquest.org/)
 
 ### 3Blue1Brown
 
 Sometimes, you just need a visual. Grant Anderson's videos will change how you view linear algebra and calculus forever.
 
 [Website](https://www.3blue1brown.com/#lessons)
+
+### HarvardX Fundamentals of Neuroscience
+
+This is a series of three online courses (free if you select the Audit Track) that offers an excellent introduction to the basics of neuroscience, including the biochemistry of how neurons work, how they function as ensembles, and how they combine to the make the brain.
+[Website](https://www.edx.org/xseries/harvardx-fundamentals-of-neuroscience)
 
 
 * * *
