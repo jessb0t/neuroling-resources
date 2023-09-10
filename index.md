@@ -6,7 +6,7 @@ Welcome!
 
 # Datasets
 
-intro
+The public release of datasets  is a cornerstone of open science. In this particular collection, I include only datasets that could be relevant to an investigation of linguistics-related questions and which contain neural data (EEG, MEG, FFR, ECoG, etc.). They are in no particular order.
 
 ### ERP CORE
 
@@ -20,9 +20,21 @@ A dataset to investigate how pitch accents are processed in continuous speech. T
 
 [Zenodo](https://zenodo.org/record/4721936#.YI%20dHxZBKjb1) –– [Paper](https://doi.org/10.1016/j.neuropsychologia.2021.107883)
 
+### Broderick Natural Listening Datasets
+
+A collection of datasets that includes both naturalistic listening, RSVP reading, and speech in noise experiments. The paper offers details on stimuli, procedures, and participants.
+
+[Dryad](https://doi.org/10.5061/dryad.070jc) –– [Paper](https://doi.org/10.1016/j.cub.2018.01.080)
+
+### MEG-MASC
+
+An MEG dataset in which participants (mostly English L1) listened to several stories produced by a text-to-speech synthesizer with three distinct synthetic voices and multiple speech rates.
+
+[GitHub](https://github.com/kingjr/meg-masc) –– [OSF](https://osf.io/ag3kj/) –– [Paper](https://arxiv.org/abs/2208.11488)
+
 # Tutorials
 
-intro
+Many amazing scientists have created useful (and free!) tutorials to do, well, just about anything. This is a collection of tutorials that I have found particularly useful for learning skills that support my neurolinguistic research.
 
 ### Programming with Software Carpentry
 
