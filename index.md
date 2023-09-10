@@ -4,7 +4,7 @@ layout: default
 
 Welcome!
 
-This website is intended to provide students of neurolinguistics, both novice and experienced alike, with useful resources to explore data of various types. :nerd-face:
+This website is intended to provide students of neurolinguistics, both novice and experienced alike, with useful resources to explore data of various types. :nerd_face:
 
 Scroll down to find open datasets that you can download and explore. These are followed by a small smattering of practical tutorials in neuroscience, programming, and statistics.
 
