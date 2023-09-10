@@ -6,7 +6,7 @@ Welcome!
 
 # Datasets
 
-The public release of datasets  is a cornerstone of open science. In this particular collection, I include only datasets that could be relevant to an investigation of linguistics-related questions and which contain neural data (EEG, MEG, FFR, ECoG, etc.). They are in no particular order.
+The public release of datasets  is a cornerstone of open science. In this particular collection, I include only datasets that could be relevant to an investigation of linguistics-related questions and which contain neural data (EEG, MEG, FFR, ECoG, etc.). They are in no particular order. All papers are linked to the DOI or ArXiv for ease of reference, but many are also freely available via PubMed Central.
 
 ### ERP CORE
 
@@ -43,6 +43,12 @@ Deep data for 8 participants who listen to multiple hours of natural stories fro
 A large dataset (345 participants!) listening to naturalistic audio while in fMRI scanning. Extensive annotations are available for the stimulus stories.
 
 [GitHub](https://github.com/snastase/narratives) –– [Datalad](https://datasets.datalad.org/?dir=/labs/hasson/narratives) –– [Paper](https://doi.org/10.1038/s41597-021-01033-3)
+
+### Tang Pitch Listening | ECoG
+
+A dataset of ECoG data from the superior temporal gyrus (STG) of 10 participants who listened to sentences with varied pitch contour, phonetic content, and synthesized speaker.
+
+[Zenodo](https://doi.org/10.5281/zenodo.826950) –– [Paper](https://doi.org/10.1016/j.bandl.2020.104891)
 
 # Tutorials
 
