@@ -34,7 +34,7 @@ An MEG dataset in which participants (mostly English L1) listened to several sto
 
 ### LeBel Natural Listening
 
-Deep data for 8 participants who listen to multiple hours of natural stories from [The Moth Radio Hour](https://themoth.org/radio-hour) and the NYT Modern Love podcast. Extensive annotations for the podcast stimuli.
+Deep data for 8 participants who listen to multiple hours of natural stories from [The Moth Radio Hour](https://themoth.org/radio-hour) and the NYT Modern Love podcast during fMRI scanning. Extensive annotations for the podcast stimuli.
 
 [GitHub](https://github.com/HuthLab/deep-fMRI-dataset) –– [OpenNeuro](https://openneuro.org/datasets/ds003020/versions/1.1.1) –– [Paper](https://doi.org/10.1038/s41597-023-02437-z)
 
@@ -90,6 +90,8 @@ This is a series of three online courses (free if you select the Audit Track) th
 
 [Website](https://www.edx.org/xseries/harvardx-fundamentals-of-neuroscience)
 
+
+* * *
 
 * * *
 
