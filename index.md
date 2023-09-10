@@ -4,9 +4,11 @@ layout: default
 
 Welcome!
 
+This website is intended to provide students of neurolinguistics, both novice and experienced alike, with useful resources to explore data of various types. :nerd_face:
+
 # Datasets
 
-The public release of datasets  is a cornerstone of open science. In this particular collection, I include only datasets that could be relevant to an investigation of linguistics-related questions and which contain neural data (EEG, MEG, FFR, ECoG, etc.). They are in no particular order. All papers are linked to the DOI or ArXiv for ease of reference, but many are also freely available via PubMed Central.
+The public release of datasets  is a cornerstone of open science. In this particular collection, I include only datasets that could be relevant to an investigation of linguistics-related questions and which contain neural data (EEG, MEG, FFR, ECoG, fMRI, etc.). They are in no particular order. All papers are linked to the DOI or ArXiv for ease of reference, but many are also freely available via PubMed Central.
 
 ### ERP CORE | EEG
 
@@ -22,7 +24,7 @@ A dataset of 15 participants listening to an English audiobook, read by an Ameri
 
 ### Broderick Natural Listening Datasets | EEG
 
-A collection of datasets that includes both naturalistic listening, RSVP reading, and speech in noise experiments. The paper offers details on stimuli, procedures, and participants.
+A collection of datasets that includes naturalistic listening, RSVP reading, and speech in noise experiments. The paper offers details on stimuli, procedures, and participants.
 
 [Dryad](https://doi.org/10.5061/dryad.070jc) –– [Paper](https://doi.org/10.1016/j.cub.2018.01.080)
 
