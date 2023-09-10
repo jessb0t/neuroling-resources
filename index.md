@@ -8,45 +8,45 @@ Welcome!
 
 The public release of datasets  is a cornerstone of open science. In this particular collection, I include only datasets that could be relevant to an investigation of linguistics-related questions and which contain neural data (EEG, MEG, FFR, ECoG, etc.). They are in no particular order. All papers are linked to the DOI or ArXiv for ease of reference, but many are also freely available via PubMed Central.
 
-### ERP CORE
+### ERP CORE | EEG
 
-The ERP CORE dataset has two experiments of particular interest to neurolinguists: the N400 and the MMN. The N400 will especially appeal to those who want to investigate lexical semantics while the MMN is an important ERP in auditory processing. Participants are English speakers.
+The ERP CORE dataset has two experiments of particular interest to neurolinguists: the N400 and the MMN. The N400 will especially appeal to those who want to investigate lexical semantics while the MMN is an important ERP in auditory processing. Participants are 40 English speakers.
 
 [OSF:N400](https://osf.io/29xpq/) –– [OSF:MMN](https://osf.io/5q4xs/) –– [Website](https://erpinfo.org/erp-core) –– [Paper](https://doi.org/10.1016/j.neuroimage.2020.117465)
 
-### Accent-Related Potentials
+### Llanos/Reetzke Audiobook Listening | EEG
 
-A dataset to investigate how pitch accents are processed in continuous speech. The authors created a new metric, the accent related potential (ARP), a distinct neural signature for pitch accents. Participants are monolingual English L1 and multilingual English L2, Mandarin L1 speakers.
+A dataset of 15 participants listening to an English audiobook, read by an American male speaker, interlaced with distractor tones. Participants are monolingual English L1 (n=15) and multilingual English L2, Mandarin L1 speakers (n=15).
 
 [Zenodo](https://zenodo.org/record/4721936#.YI%20dHxZBKjb1) –– [Paper](https://doi.org/10.1016/j.neuropsychologia.2021.107883)
 
-### Broderick Natural Listening Datasets
+### Broderick Natural Listening Datasets | EEG
 
 A collection of datasets that includes both naturalistic listening, RSVP reading, and speech in noise experiments. The paper offers details on stimuli, procedures, and participants.
 
 [Dryad](https://doi.org/10.5061/dryad.070jc) –– [Paper](https://doi.org/10.1016/j.cub.2018.01.080)
 
-### MEG-MASC
+### MEG-MASC | MEG
 
-An MEG dataset in which participants (mostly English L1) listened to several stories produced by a text-to-speech synthesizer with three distinct synthetic voices and multiple speech rates.
+An MEG dataset in which 27 participants (all but one of whom were English L1) listened to several stories produced by a text-to-speech synthesizer with three distinct synthetic voices and multiple speech rates.
 
 [GitHub](https://github.com/kingjr/meg-masc) –– [OSF](https://osf.io/ag3kj/) –– [Paper](https://arxiv.org/abs/2208.11488)
 
-### LeBel Natural Listening
+### LeBel Podcast Listening | fMRI
 
-Deep data for 8 participants who listen to multiple hours of natural stories from [The Moth Radio Hour](https://themoth.org/radio-hour) and the NYT Modern Love podcast during fMRI scanning. Extensive annotations for the podcast stimuli.
+Deep data for 8 participants (language background undisclosed) who listen to multiple hours of natural, English-language stories from [The Moth Radio Hour](https://themoth.org/radio-hour) and the NYT Modern Love podcast during fMRI scanning. Extensive annotations for the podcast stimuli.
 
 [GitHub](https://github.com/HuthLab/deep-fMRI-dataset) –– [OpenNeuro](https://openneuro.org/datasets/ds003020/versions/1.1.1) –– [Paper](https://doi.org/10.1038/s41597-023-02437-z)
 
-### Narratives (Nastase Natural Listening)
+### 'Narratives' (Nastase Natural Listening) | fMRI
 
-A large dataset (345 participants!) listening to naturalistic audio while in fMRI scanning. Extensive annotations are available for the stimulus stories.
+A large dataset (345 participants!) listening to naturalistic audio while in fMRI scanning. Participants include both English L1 and English L2; stimuli are varied but all naturalistic. Extensive annotations are available for the stimulus stories.
 
-[GitHub](https://github.com/snastase/narratives) –– [Datalad](https://datasets.datalad.org/?dir=/labs/hasson/narratives) –– [Paper](https://doi.org/10.1038/s41597-021-01033-3)
+[OpenNeuro](https://openneuro.org/datasets/ds002345) –– [GitHub](https://github.com/snastase/narratives) –– [Datalad](https://datasets.datalad.org/?dir=/labs/hasson/narratives) –– [Paper](https://doi.org/10.1038/s41597-021-01033-3)
 
 ### Tang Pitch Listening | ECoG
 
-A dataset of ECoG data from the superior temporal gyrus (STG) of 10 participants who listened to sentences with varied pitch contour, phonetic content, and synthesized speaker.
+A dataset of ECoG data from the superior temporal gyrus (STG) of 10 participants who listened to single sentences with varied pitch contour, phonetic content, and synthesized speaker.
 
 [Zenodo](https://doi.org/10.5281/zenodo.826950) –– [Paper](https://doi.org/10.1016/j.bandl.2020.104891)
 
