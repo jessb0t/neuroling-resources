@@ -24,13 +24,23 @@ A dataset to investigate how pitch accents are processed in continuous speech. T
 
 intro
 
-### Tutorial 1
+### Programming with Software Carpentry
 
-blahblah
+The most common programming languages for neurolinguistic data analysis are MATLAB and Python. Python and R are widely used in acoustics. R is popular for statistical modeling while Python is considered top-of-class for machine learning. With these three languages, a neurolinguist has a broad foundation on which to explore and analyze data. (Note: R and Python are both free to download and install. For MATLAB, you may have access through your institution. The actual tutorials below are free.)
 
-### Tutorial 2
+[R](https://swcarpentry.github.io/r-novice-gapminder/) –– [Python](https://swcarpentry.github.io/python-novice-inflammation/) –– [MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/)
 
-blahblah
+### EEG Preprocessing + Simple ERPs
+
+A series of informal trainings led by [Dr. George Buzzell](https://www.ndclab.com/) using the [MADE](https://github.com/ChildDevLab/MADE-EEG-preprocessing-pipeline) preprocessing pipeline to prepare EEG data for analysis. Use the readmes in 2021 and 2022 (in order) to access video links and materials.
+
+[GitHub](https://github.com/NDCLab/lab-training/tree/main/eeg-analysis)
+
+### Linear Mixed Effects Modeling for Linguistics
+
+Two very straightforward tutorials on the basics of mixed effects modeling by cognitive linguist [Dr. Bodo Winter](https://bodowinter.com/). An excellent place to start for mixed effects modeling.
+
+[Paper + Tutorial](http://arxiv.org/pdf/1308.5499.pdf)
 
 
 * * *
