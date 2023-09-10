@@ -54,6 +54,24 @@ Two very straightforward tutorials on the basics of mixed effects modeling by co
 
 [Paper + Tutorial](http://arxiv.org/pdf/1308.5499.pdf)
 
+### Neuromatch Computational Neuroscience
+
+A thousand tutorials in one! The Neuromatch team makes their annual, three-week intensive course freely available, with videos and hands-on tutorials using Jupyter notebooks in either Google Colab or Kaggle. Ignore the "Projects" part (which is only for summer participants), and start with W0D0 (Week 0, Day 0).
+
+[Website](https://compneuro.neuromatch.io/tutorials/intro.html)
+
+### Statquest
+
+Dr. Josh Starmer's hilarious, accessible videos can help you work through any statistical confusion.
+
+[YouTube](https://www.youtube.com/@statquest) | [Website](https://statquest.org/)
+
+### 3Blue1Brown
+
+Sometimes, you just need a visual. Grant Anderson's videos will change how you view linear algebra and calculus forever.
+
+[Website](https://www.3blue1brown.com/#lessons)
+
 
 * * *
 
