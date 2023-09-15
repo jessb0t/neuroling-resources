@@ -60,6 +60,12 @@ An EEG dataset of 49 participants listening to the first chapter of Alice's Adve
 
 [UMich Deep Blue](https://deepblue.lib.umich.edu/data/concern/data_sets/bn999738r) –– [Paper](https://doi.org/10.1371/journal.pone.0207741)
 
+### Das Auditory Attention | EEG
+
+An EEG dataset of 16 participants who simultaneously listened to six-minute snippets of two stories. Competing stories were either presented separately in each ear or in the same stream using a head-related transfer function (HRTF). Participant language background was not disclosed.
+
+[Zenodo](https://zenodo.org/record/3997352#.X0fP1sgza5g) –– [Paper](https://doi.org/10.1088/1741-2560/13/5/056014)
+
 # Tutorials
 
 Many amazing scientists have created useful (and free!) tutorials to do, well, just about anything. This is a collection of tutorials that I have found particularly useful for learning skills that support my neurolinguistic research.
