@@ -54,6 +54,12 @@ A dataset of ECoG data from the superior temporal gyrus (STG) of 10 participants
 
 [Zenodo](https://doi.org/10.5281/zenodo.826950) –– [Paper](https://doi.org/10.1016/j.bandl.2020.104891)
 
+### Brennan "Alice in Wonderland" Listening | EEG
+
+An EEG dataset of 49 participants listening to the first chapter of Alice's Adventures in Wonderland. Participant language background was not disclosed.
+
+[UMich Deep Blue](https://deepblue.lib.umich.edu/data/concern/data_sets/bn999738r) –– [Paper](https://doi.org/10.1371/journal.pone.0207741)
+
 # Tutorials
 
 Many amazing scientists have created useful (and free!) tutorials to do, well, just about anything. This is a collection of tutorials that I have found particularly useful for learning skills that support my neurolinguistic research.
