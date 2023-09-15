@@ -55,7 +55,7 @@ A dataset of ECoG data from the superior temporal gyrus (STG) of 10 participants
 
 [Zenodo](https://doi.org/10.5281/zenodo.826950) –– [Paper](https://doi.org/10.1016/j.bandl.2020.104891)
 
-### Brennan "Alice in Wonderland" Listening | EEG
+### Brennan 'Alice in Wonderland' Listening | EEG
 
 An EEG dataset of 49 participants listening to the first chapter of Alice's Adventures in Wonderland read in English. Participant language background was not disclosed.
 
