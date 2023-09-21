@@ -10,7 +10,7 @@ Scroll down to find open datasets that you can download and explore. These are f
 
 # Datasets
 
-The public release of datasets  is a cornerstone of open science. In this particular collection, I include only datasets that could be relevant to an investigation of linguistics-related questions and which contain neural data (EEG, MEG, FFR, ECoG, fMRI, etc.). They are in no particular order. All papers are linked to the DOI or ArXiv for ease of reference, but many are also freely available via PubMed Central.
+The public release of datasets  is a cornerstone of open science. In this particular collection, I include only datasets that could be relevant to an investigation of linguistics-related questions (including auditory processing) and which contain neural data (EEG, MEG, FFR, ECoG, fMRI, etc.). They are in no particular order. All papers are linked to the DOI or ArXiv for ease of reference, but many are also freely available via PubMed Central.
 
 ### ERP CORE | EEG
 
@@ -66,6 +66,14 @@ An EEG dataset of 49 participants listening to the first chapter of Alice's Adve
 An EEG dataset of 16 participants who simultaneously listened to six-minute snippets of two stories read in Dutch. Competing stories were either presented separately in each ear or in the same stream using a head-related transfer function (HRTF). Participant language background was not disclosed.
 
 [Zenodo](https://zenodo.org/record/3997352#.X0fP1sgza5g) –– [Paper](https://doi.org/10.1088/1741-2560/13/5/056014)
+
+### Cavanagh Oddballs | EEG
+
+Two EEG datasets using a 3-stimulus oddball paradigm with two clinical populations:
+* participants with minor traumatic brain injury (mTBI): sub-acute mTBI, n = 38; chronic sympatomatology, n = 23; healthy controls, n = 24
+* Parkinson's (PD) patients: n = 25, plus equal number of well-matched controls
+
+[Data:PD](https://unmm-my.sharepoint.com/personal/jcavanagh_unm_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjcavanagh%5Funm%5Fedu%2FDocuments%2FPD%20Oddball%20Data&ga=1) –– [Paper:PD](https://doi.org/10.1016/j.clinph.2017.11.023) –– [Data:mTBI](https://unmm-my.sharepoint.com/personal/jcavanagh_unm_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjcavanagh%5Funm%5Fedu%2FDocuments%2FmTBI%203AOB%20PreProc&ga=1) –– [Paper:mTBI](https://doi.org/10.1016%2Fj.neuropsychologia.2019.107125)
 
 # Tutorials
 
