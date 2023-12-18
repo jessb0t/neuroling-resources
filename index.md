@@ -85,6 +85,12 @@ The most common programming languages for neurolinguistic data analysis are MATL
 
 [R](https://swcarpentry.github.io/r-novice-gapminder/) –– [Python](https://swcarpentry.github.io/python-novice-inflammation/) –– [MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/)
 
+### Signal Processing with Mike X. Cohen
+
+[Cohen](https://mikexcohen.com/) is the master of time-series data analysis. He has multiple books and Udemy courses, as well as a plethora of freely-available tutorials on YouTube (with accompanying code available on GitHub!)
+
+[YouTube](https://www.youtube.com/@mikexcohen1) –– [GitHub](https://github.com/mikexcohen)
+
 ### EEG Preprocessing + Simple ERPs
 
 A series of informal trainings led by [Dr. George Buzzell](https://www.ndclab.com/) using the [MADE](https://github.com/ChildDevLab/MADE-EEG-preprocessing-pipeline) preprocessing pipeline to prepare EEG data for analysis. Use the readmes in 2021 and 2022 (in order) to access video links and materials.
