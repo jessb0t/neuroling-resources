@@ -87,7 +87,7 @@ The most common programming languages for neurolinguistic data analysis are MATL
 
 ### Signal Processing with Mike X. Cohen
 
-[Cohen](https://mikexcohen.com/) is the master of time-series data analysis. He has multiple books and Udemy courses, as well as a plethora of freely-available tutorials on YouTube (with accompanying code available on GitHub!)
+[Cohen](https://mikexcohen.com/) is the master of time-series data analysis. He has multiple books and Udemy courses, as well as a plethora of freely-available tutorials on YouTube (with accompanying code available on GitHub!).
 
 [YouTube](https://www.youtube.com/@mikexcohen1) –– [GitHub](https://github.com/mikexcohen)
 
