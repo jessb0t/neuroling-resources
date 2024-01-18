@@ -75,6 +75,12 @@ Two EEG datasets using a 3-stimulus oddball paradigm with two clinical populatio
 
 [Data:PD](https://unmm-my.sharepoint.com/personal/jcavanagh_unm_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjcavanagh%5Funm%5Fedu%2FDocuments%2FPD%20Oddball%20Data&ga=1) –– [Paper:PD](https://doi.org/10.1016/j.clinph.2017.11.023) –– [Data:mTBI](https://unmm-my.sharepoint.com/personal/jcavanagh_unm_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjcavanagh%5Funm%5Fedu%2FDocuments%2FmTBI%203AOB%20PreProc&ga=1) –– [Paper:mTBI](https://doi.org/10.1016%2Fj.neuropsychologia.2019.107125)
 
+### Ershaid Cortical Tracking in Noise | EEG+Pupillometry
+
+A dataset that includes EEG, pupillometry, self-reports of listening effort, and phonological and reading assessments for 49 Spanish-speaking participants. Stimuli sentences were presented in quiet or embedded in either multitalker babble ("cafeteria") or reverberation noise.
+
+[OSF](https://osf.io/asn2k/) –– [Paper](https://doi.org/10.1016/j.cortex.2023.11.018)
+
 # Tutorials
 
 Many amazing scientists have created useful (and free!) tutorials to do, well, just about anything. This is a collection of tutorials that I have found particularly useful for learning skills that support my neurolinguistic research.
