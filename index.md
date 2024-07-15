@@ -81,6 +81,12 @@ A dataset that includes EEG, pupillometry, self-reports of listening effort, and
 
 [OSF](https://osf.io/asn2k/) –– [Paper](https://doi.org/10.1016/j.cortex.2023.11.018)
 
+### Issa Measures of Cortical Tracking of Speech | ECoG/EEG/MEG
+
+A compilation of other datasets, using different methodologies and with stimuli in different languages, that the authors use to explore five different methods for extracting the speech envelope.
+
+[OSF](https://osf.io/gtsa5/) –– [Paper](https://doi.org/10.1016/j.neuroimage.2024.120675)
+
 # Tutorials
 
 Many amazing scientists have created useful (and free!) tutorials to do, well, just about anything. This is a collection of tutorials that I have found particularly useful for learning skills that support my neurolinguistic research.
