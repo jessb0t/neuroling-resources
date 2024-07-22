@@ -26,9 +26,9 @@ A dataset of 15 participants listening to an English audiobook, read by an Ameri
 
 ### Broderick Natural Listening Datasets | EEG
 
-A collection of datasets that includes naturalistic listening, RSVP reading, and speech in noise experiments. The paper offers details on stimuli, procedures, and participants.
+A collection of datasets that includes naturalistic listening, RSVP reading, and speech in noise experiments. The paper offers details on stimuli, procedures, and participants. All three auditory datasets (natural speech, reverse speech, and cocktail party speech) are also available in CND format from the CNSP.
 
-[Dryad](https://doi.org/10.5061/dryad.070jc) –– [Paper](https://doi.org/10.1016/j.cub.2018.01.080)
+[Dryad](https://doi.org/10.5061/dryad.070jc) –– [CNSP](https://cnspworkshop.net/resources.html) –– [Paper](https://doi.org/10.1016/j.cub.2018.01.080)
 
 ### MEG-MASC | MEG
 
@@ -57,15 +57,15 @@ A dataset of ECoG data from the superior temporal gyrus (STG) of 10 participants
 
 ### Brennan 'Alice in Wonderland' Listening | EEG
 
-An EEG dataset of 49 participants listening to the first chapter of Alice's Adventures in Wonderland read in English. Participant language background was not disclosed.
+An EEG dataset of 49 participants listening to the first chapter of Alice's Adventures in Wonderland read in English. Participant language background was not disclosed. Dataset is also available in CND format from the CNSP.
 
-[UMich Deep Blue](https://deepblue.lib.umich.edu/data/concern/data_sets/bn999738r) –– [Paper](https://doi.org/10.1371/journal.pone.0207741)
+[UMich Deep Blue](https://deepblue.lib.umich.edu/data/concern/data_sets/bn999738r) –– [CNSP](https://cnspworkshop.net/resources.html) –– [Paper](https://doi.org/10.1371/journal.pone.0207741)
 
 ### Das Auditory Attention | EEG
 
-An EEG dataset of 16 participants who simultaneously listened to six-minute snippets of two stories read in Dutch. Competing stories were either presented separately in each ear or in the same stream using a head-related transfer function (HRTF). Participant language background was not disclosed.
+An EEG dataset of 16 participants who simultaneously listened to six-minute snippets of two stories read in Dutch. Competing stories were either presented separately in each ear or in the same stream using a head-related transfer function (HRTF). Participant language background was not disclosed. Dataset is also available in CND format from the CNSP.
 
-[Zenodo](https://zenodo.org/record/3997352#.X0fP1sgza5g) –– [Paper](https://doi.org/10.1088/1741-2560/13/5/056014)
+[Zenodo](https://zenodo.org/record/3997352#.X0fP1sgza5g) –– [CNSP](https://cnspworkshop.net/resources.html) –– [Paper](https://doi.org/10.1088/1741-2560/13/5/056014)
 
 ### Cavanagh Oddballs | EEG
 
@@ -86,6 +86,12 @@ A dataset that includes EEG, pupillometry, self-reports of listening effort, and
 A compilation of other datasets, using different methodologies and with stimuli in different languages, that the authors use to explore five different methods for extracting the speech envelope.
 
 [OSF](https://osf.io/gtsa5/) –– [Paper](https://doi.org/10.1016/j.neuroimage.2024.120675)
+
+### 'Baby Rhythms' Cortical Tracking in Infants of Nursery Rhymes | EEG
+
+EEG was recorded from a longitudinal cohort of 50 infants (3 sessions) born in the United Kingdom, some exposed to a monolingual home environment and others a bilingual home environment, as the infants listened to eighteen nursery rhymes. Dataset is also available in CND format from the CNSP.
+
+[OSF](https://osf.io/mdnwg/) –– [CNSP](https://cnspworkshop.net/resources.html) –– [Paper](https://doi.org/10.1038/s41467-023-43490-x)
 
 # Tutorials
 
