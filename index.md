@@ -93,6 +93,12 @@ EEG was recorded from a longitudinal cohort of 50 infants (3 sessions) born in t
 
 [OSF](https://osf.io/mdnwg/) –– [CNSP](https://cnspworkshop.net/resources.html) –– [Paper](https://doi.org/10.1038/s41467-023-43490-x)
 
+### Kösem Speech Rhythms | MEG
+
+An MEG dataset of 33 Dutch speakers listening to carrier sentences at two speeds (fast: 5.5 Hz; slow:3 Hz) followed by a stable target window that contains a target word belonging to a long/short vowel minimal pair.
+
+[RadboudU](https://doi.org/10.34973/z05r-n179) –– [Paper](https://doi.org/10.1016/j.cub.2018.07.023)
+
 # Tutorials
 
 Many amazing scientists have created useful (and free!) tutorials to do, well, just about anything. This is a collection of tutorials that I have found particularly useful for learning skills that support my neurolinguistic research.
