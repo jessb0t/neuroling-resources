@@ -95,7 +95,7 @@ EEG was recorded from a longitudinal cohort of 50 infants (3 sessions) born in t
 
 ### Kösem Speech Rhythms | MEG
 
-An MEG dataset of 33 Dutch speakers listening to carrier sentences at two speeds (fast: 5.5 Hz; slow:3 Hz) followed by a stable target window that contains a target word belonging to a long/short vowel minimal pair.
+An MEG dataset of 33 Dutch speakers listening to carrier sentences at two speeds (fast: 5.5 Hz; slow: 3 Hz) followed by a stable target window containing a target word that belongs to a minimal pair contrasting in vowel length.
 
 [RadboudU](https://doi.org/10.34973/z05r-n179) –– [Paper](https://doi.org/10.1016/j.cub.2018.07.023)
 
