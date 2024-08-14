@@ -99,6 +99,12 @@ An MEG dataset of 33 Dutch speakers listening to carrier sentences at two speeds
 
 [RadboudU](https://doi.org/10.34973/z05r-n179) –– [Paper](https://doi.org/10.1016/j.cub.2018.07.023)
 
+### Kösem Vocoder Training | MEG
+
+MEG and intelligibility data for 31 Dutch speakers who listened to 2-band and 4-band vocoded speech twice: once in a pre-training phase and then again after they were trained to listen to 4-band vocoded speech (post-training).
+
+[RadboudU](https://doi.org/10.34973/qksk-6x25) –– [Paper](https://10.1016/j.neuroimage.2023.120040)
+
 # Tutorials
 
 Many amazing scientists have created useful (and free!) tutorials to do, well, just about anything. This is a collection of tutorials that I have found particularly useful for learning skills that support my neurolinguistic research.
