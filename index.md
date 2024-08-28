@@ -105,6 +105,12 @@ MEG and intelligibility data for 31 Dutch speakers who listened to 2-band and 4-
 
 [RadboudU](https://doi.org/10.34973/qksk-6x25) –– [Paper](https://10.1016/j.neuroimage.2023.120040)
 
+### MacIntyre Vocoded Sherlock Story | EEG
+
+Data from 38 English speakers (with no experience in Dutch) who heard a Sherlock Holmes story in both languages across three vocoding conditions: unprocessed, 16-band, and 16-band with a decay slope.
+
+[OSF](https://osf.io/czwj9/) –– [Paper](https://doi.org/10.1177/23312165241266316)
+
 # Tutorials
 
 Many amazing scientists have created useful (and free!) tutorials to do, well, just about anything. This is a collection of tutorials that I have found particularly useful for learning skills that support my neurolinguistic research.
