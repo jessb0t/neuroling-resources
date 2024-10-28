@@ -111,6 +111,12 @@ Data from 38 English speakers (with no experience in Dutch) who heard a Sherlock
 
 [OSF](https://osf.io/czwj9/) –– [Paper](https://doi.org/10.1177/23312165241266316)
 
+### Reetzke Mandarin Tone Learning | EEG (FFR)
+
+Behavioral and neural data from 20 English L1 listeners trained to identify Mandarin lexical tones over the course of 4-13 days until their identification accuracy rivaled 13 Mandarin L1 listeners, then further trained for ten days and tested again eight weeks post-training.
+
+[Mendeley-Behavior](https://data.mendeley.com/datasets/j2z2km4p9y/2) –– [Mendeley-Neural](https://data.mendeley.com/datasets/cvjjs4vdww/2) –– [Paper](https://doi.org/10.1016/j.cub.2018.03.026)
+
 # Tutorials
 
 Many amazing scientists have created useful (and free!) tutorials to do, well, just about anything. This is a collection of tutorials that I have found particularly useful for learning skills that support my neurolinguistic research.
