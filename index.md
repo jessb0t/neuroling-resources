@@ -117,6 +117,12 @@ Behavioral and neural data from 20 English L1 listeners trained to identify Mand
 
 [Mendeley-Behavior](https://data.mendeley.com/datasets/j2z2km4p9y/2) –– [Mendeley-Neural](https://data.mendeley.com/datasets/cvjjs4vdww/2) –– [Paper](https://doi.org/10.1016/j.cub.2018.03.026)
 
+### Zada 'Podcast' Dataset | ECoG
+
+Data from nine patients with cortical electrodes (grid array, linear strip, or depth electrodes) listening to a 30-minute podcast from "This American Life."
+
+[OpenNeuro](https://openneuro.org/datasets/ds005574/versions/1.0.2)  –– [Paper](https://pubmed.ncbi.nlm.nih.gov/40610484/) –– [Tutorial](https://hassonlab.github.io/podcast-ecog-tutorials/html/index.html)
+
 # Tutorials
 
 Many amazing scientists have created useful (and free!) tutorials to do, well, just about anything. This is a collection of tutorials that I have found particularly useful for learning skills that support my neurolinguistic research.
