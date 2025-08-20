@@ -121,13 +121,13 @@ Behavioral and neural data from 20 English L1 listeners trained to identify Mand
 
 Data from nine patients with cortical electrodes (grid array, linear strip, or depth electrodes) listening to a 30-minute podcast from "This American Life."
 
-[OpenNeuro](https://openneuro.org/datasets/ds005574/versions/1.0.2)  –– [Paper](https://pubmed.ncbi.nlm.nih.gov/40610484/) –– [Tutorial](https://hassonlab.github.io/podcast-ecog-tutorials/html/index.html)
+[OpenNeuro](https://openneuro.org/datasets/ds005574/versions/1.0.2)  –– [Paper](https://doi.org/10.1038/s41597-025-05462-2) –– [Tutorial](https://hassonlab.github.io/podcast-ecog-tutorials/html/index.html)
 
 ### Baus Tracking/N400 Dataset | EEG
 
 Data from 22 English L1 listeners and 22 English L2 (Spanish/Catalan bilingual L1) listeners participating in two study tasks: an English listening task involving cortical tracking of syllabic, phrasal, and sentential elements and an English listening task involving semantic congruity (N400 effect).
 
-[OSF](https://osf.io/e6z3s/)  –– [Paper](https://pubmed.ncbi.nlm.nih.gov/38911463/)
+[OSF](https://osf.io/e6z3s/)  –– [Paper](https://doi.org/10.1162/nol_a_00141)
 
 # Tutorials
 
