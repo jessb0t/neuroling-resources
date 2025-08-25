@@ -127,7 +127,13 @@ Data from nine patients with cortical electrodes (grid array, linear strip, or d
 
 Data from 22 English L1 listeners and 22 English L2 (Spanish/Catalan bilingual L1) listeners participating in two study tasks: an English listening task involving cortical tracking of syllabic, phrasal, and sentential elements and an English listening task involving semantic congruity (N400 effect).
 
-[OSF](https://osf.io/e6z3s/)  –– [Paper](https://doi.org/10.1162/nol_a_00141)
+[OSF](https://osf.io/e6z3s/) –– [Paper](https://doi.org/10.1162/nol_a_00141)
+
+### VocalMind Dataset | sEEG
+
+Data from a single participant performing three study tasks: overt speech, covert speech, and imagined reading, all in Mandarin Chinese.
+
+[Zenodo](https://zenodo.org/records/14696348) –– [GitHub](https://github.com/tianyu-h42/sEEG-Processing-SpeechDecoding) –– [Paper](https://doi.org/10.1038/s41597-025-04741-2)
 
 # Tutorials
 
