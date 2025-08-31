@@ -12,6 +12,13 @@ Scroll down to find [open datasets](#Datasets) that you can download and explore
 
 The public release of datasets  is a cornerstone of open science. In this particular collection, I include only datasets that could be relevant to an investigation of linguistics-related questions (including auditory processing) and which contain neural data (EEG, MEG, FFR, ECoG, fMRI, etc.). They are in no particular order. All papers are linked to the DOI or ArXiv for ease of reference, but many are also freely available via PubMed Central.
 
+* EEG: [ERP CORE](#erp_core_|_eeg), [Llanos/Reetzke](#llanos/reetzke_audiobook_listening_|_eeg), [Broderick](#broderick_natural_listening_datasets_|_eeg), [Brennan](#brennan_'alice_in_wonderland'_listening_|_eeg), [Das](#das_auditory_attention_|_eeg), [Cavanagh](#cavanagh_oddballs_|_eeg), ['Baby' Rhythms](#'baby_rhythms'_cortical_tracking_in_infants_of_nursery_rhymes_|_eeg), [MacIntyre](#macIntyre_vocoded_sherlock_story_|_eeg), [Reetzke](#reetzke_mandarin_tone_learning_|_eeg_(ffr)), [Baus](#baus_tracking/n400_dataset_|_eeg)
+* MEG: [MEG-MASC](#meg-masc_|_meg), [Kösem Speed](#kösem_speech_rhythms_|_meg), [Kösem Vocoded](#kösem_vocoder_training_|_meg)
+* fMRI: [LeBel](#lebel_podcast_listening_|_fmri), [Nastase](#'narratives'_(nastase_natural_listening)_|_fmri)
+* ECoG: [Tang](#tang_pitch_listening_|_ecog), [Zada](#zada_'podcast'_dataset_|_ecog)
+* sEEG: [VocalMind](#vocalmind_dataset_|_seeg)
+* Combos: [Ershaid](#ershaid_cortical_tracking_in_noise_|_eeg+pupillometry), [Issa](#issa_measures_of_cortical_tracking_of_speech_|_ecog/eeg/meg)
+
 ### ERP CORE | EEG
 
 The ERP CORE dataset has two experiments of particular interest to neurolinguists: the N400 and the MMN. The N400 will especially appeal to those who want to investigate lexical semantics (in English) while the MMN is an important ERP in auditory processing. Participants are 40 English speakers.
