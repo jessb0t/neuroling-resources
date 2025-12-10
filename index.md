@@ -13,7 +13,7 @@ Scroll down to find [open datasets](#Datasets) that you can download and explore
 The public release of datasets  is a cornerstone of open science. In this particular collection, I include only datasets that could be relevant to an investigation of linguistics-related questions (including auditory processing) and which contain neural data (EEG, MEG, FFR, ECoG, fMRI, etc.). They are in no particular order. All papers are linked to the DOI or ArXiv for ease of reference, but many are also freely available via PubMed Central.
 
 * EEG: [ERP CORE](#erp-core--eeg), [Llanos/Reetzke](#llanosreetzke-audiobook-listening--eeg), [Broderick](#broderick-natural-listening-datasets--eeg), [Brennan](#brennan-alice-in-wonderland-listening--eeg), [Das](#das-auditory-attention--eeg), [Cavanagh](#cavanagh-oddballs--eeg), ['Baby' Rhythms](#baby-rhythms-cortical-tracking-in-infants-of-nursery-rhymes--eeg), [MacIntyre](#macintyre-vocoded-sherlock-story--eeg), [Reetzke](#reetzke-mandarin-tone-learning--eeg-ffr), [Baus](#baus-trackingn400-dataset--eeg), [Mauchand](#mauchand-complaints--eeg)
-* MEG: [MEG-MASC](#meg-masc--meg), [Kösem Speed](#kösem-speech-rhythms--meg), [Kösem Vocoded](#kösem-vocoder-training--meg), [Amoruso](#amoruso-social-verbs-dataset--meg)
+* MEG: [MEG-MASC](#meg-masc--meg), [Kösem Speed](#kösem-speech-rhythms--meg), [Kösem Vocoded](#kösem-vocoder-training--meg), [Amoruso](#amoruso-social-verbs-dataset--meg), [MEG-SCANS](#stories-chirps-and-noisy-sentences-(scans)--meg)
 * fMRI: [LeBel](#lebel-podcast-listening--fmri), [Nastase](#narratives-nastase-natural-listening--fmri)
 * ECoG: [Tang](#tang-pitch-listening--ecog), [Zada](#zada-podcast-dataset--ecog)
 * sEEG: [VocalMind](#vocalmind-dataset--seeg)
@@ -153,6 +153,12 @@ Data and analysis code from 14 participants performing a lexical decision task w
 ERP data from 26 Metropolitan French speakers living in Montréal who provided empathic ratings of spoken sentences differing in pragmatic meaning of the final word – innocuous or painful – produced in either a neutral or complaining prosody by either an ingroup (Metropolitan French) or outgroup (Québécois French) speaker.
 
 [Mendeley](https://data.mendeley.com/datasets/zdgyx5mf9t/3) –– [Paper](https://doi.org/10.1016/j.bandl.2023.105305)
+
+### Stories, Chirps, and Noisy Sentences (SCANS) | MEG
+
+Data and analysis code from 24 German-speaking participants who listened to two audiobooks, sentences from the Oldenburger Matrix Sentence Test in noise, and short up-chirps.
+
+[OpenNeuro](https://openneuro.org/datasets/ds006468/versions/1.1.1) –– [Paper](https://doi.org/10.1038/s41597-025-06397-4)
 
 # Tutorials
 
