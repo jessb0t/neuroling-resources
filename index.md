@@ -42,7 +42,7 @@ A collection of datasets that includes naturalistic listening, RSVP reading, and
 An MEG dataset in which 27 participants (all but one of whom were English L1) listened to several English stories produced by a text-to-speech synthesizer with three distinct synthetic voices and multiple speech rates.
 
 [GitHub](https://github.com/kingjr/meg-masc) –– [OSF](https://osf.io/ag3kj/) –– [Paper](
-https://doi.org/10.48550/arXiv.2208.11488)
+https://doi.org/10.1038/s41597-023-02752-5)
 
 ### LeBel Podcast Listening | fMRI
 
